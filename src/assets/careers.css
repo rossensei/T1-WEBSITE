@@ -1,0 +1,32 @@
+.content-header {
+    font-size: 3em;
+    margin-left: 5%;
+    margin-bottom: 0px;
+}
+
+.career-underline {
+    background-color: #bd0624;
+    height: 25px;
+    width: 193px;
+    margin-left: 5%;
+    margin-bottom: 50px;
+}
+
+.career-content {
+    margin: auto;
+    display: block;
+    text-align: center;
+}
+.career-content img{
+    height: 10%;
+    width: 10%;
+    margin: 45px 0px 45px;
+}
+
+.career-image .career-header {
+    margin: 0px;
+    display: flex;
+}
+.career-image img {
+    margin: 0px;
+}
